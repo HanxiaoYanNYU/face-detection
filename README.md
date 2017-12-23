@@ -1,3 +1,6 @@
+# Face Detection
+- 
+- please check out the .mp4 video!
 ## Introduction:
 **Background:** 
 In recent years, face detection problem has been more and more popular and attractive to almost every single person in modern society. Face detection system is a computer application capable of identifying or verifying a person from a digital image or a video frame from a video source. One of the ways to do this is by comparing selected facial features from the image and a face database. Since I really interested in face detection field, I would like to begin this project to do facial detection by building model myself.
