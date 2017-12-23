@@ -9,7 +9,7 @@ In recent years, face detection problem has been more and more popular and attra
 **Object of this project:** 
 Accomplish facial detection implementation by using machine learning knowledges, especially convolutional neural network.
 
-**My idea:** 
+**My idea:**
 At first, I would like to create a fully connected CNN (no FC layer at all), and then train this neural network on small images and set up CNN to output a 1x1x1 output. Then run the CNN on larger image, it will output the score for each box in the input image. While I would like to start my project with a more basic model, I append FC layers after CNN layers in my model. I build this model with the following steps:
 
 - step1: Transfer learning from well-known model (VGG-16), this could save our time to train model from scrach.
