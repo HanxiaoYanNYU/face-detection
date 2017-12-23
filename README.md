@@ -17,6 +17,6 @@ At first, I would like to create a fully connected CNN (no FC layer at all), and
 - step3: Download human pictures and generate face images as part of training samples.
 - step4: Training model
 
-After model being built, I try to:
+**After model being built, I try to:**
 - step1: Single face detection
 - step2: Multi face detection
